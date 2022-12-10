@@ -1,1 +1,20 @@
 /* YOUR STYLES HERE */
+
+h1{
+  color: #ffffff;
+  background-color: #111927;
+}
+
+h6{
+  color: #ffdb6d;
+  text-align: center;
+  border: solid;
+  border-color: #ffdb6d;
+  border-width: 3px;
+  padding: 1rem;
+  background-color: #1d2531;
+}
+
+img{
+  height: 250px;
+}
